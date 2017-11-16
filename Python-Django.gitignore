@@ -1,4 +1,7 @@
-# Sublime-Text
+# Pycharm
+.idea/*
+
+# Sublime Text
 *.sublime-*
 
 # Byte-compiled / optimized / DLL files
@@ -54,6 +57,7 @@ coverage.xml
 *.pot
 
 # Django stuff:
+#.+/migrations/*
 *.log
 .static_storage/
 .media/
